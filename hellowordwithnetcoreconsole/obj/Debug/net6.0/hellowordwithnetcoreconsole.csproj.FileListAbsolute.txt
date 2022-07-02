@@ -1,0 +1,15 @@
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\bin\Debug\net6.0\hellowordwithnetcoreconsole.exe
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\bin\Debug\net6.0\hellowordwithnetcoreconsole.deps.json
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\bin\Debug\net6.0\hellowordwithnetcoreconsole.runtimeconfig.json
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\bin\Debug\net6.0\hellowordwithnetcoreconsole.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\bin\Debug\net6.0\ref\hellowordwithnetcoreconsole.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\bin\Debug\net6.0\hellowordwithnetcoreconsole.pdb
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.csproj.AssemblyReference.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.AssemblyInfoInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.AssemblyInfo.cs
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\ref\hellowordwithnetcoreconsole.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.pdb
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\hellowordwithnetcoreconsole\obj\Debug\net6.0\hellowordwithnetcoreconsole.genruntimeconfig.cache

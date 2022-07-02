@@ -1,0 +1,15 @@
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\bin\Debug\net6.0\csharpbasicExamples.exe
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\bin\Debug\net6.0\csharpbasicExamples.deps.json
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\bin\Debug\net6.0\csharpbasicExamples.runtimeconfig.json
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\bin\Debug\net6.0\csharpbasicExamples.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\bin\Debug\net6.0\ref\csharpbasicExamples.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\bin\Debug\net6.0\csharpbasicExamples.pdb
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.csproj.AssemblyReference.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.AssemblyInfoInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.AssemblyInfo.cs
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\ref\csharpbasicExamples.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.pdb
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\obj\Debug\net6.0\csharpbasicExamples.genruntimeconfig.cache
