@@ -1,0 +1,15 @@
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\bin\Debug\net6.0\swap_values_of_two_variables.exe
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\bin\Debug\net6.0\swap_values_of_two_variables.deps.json
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\bin\Debug\net6.0\swap_values_of_two_variables.runtimeconfig.json
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\bin\Debug\net6.0\swap_values_of_two_variables.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\bin\Debug\net6.0\ref\swap_values_of_two_variables.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\bin\Debug\net6.0\swap_values_of_two_variables.pdb
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.csproj.AssemblyReference.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.AssemblyInfoInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.AssemblyInfo.cs
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\ref\swap_values_of_two_variables.dll
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.pdb
+C:\Users\Deniz\Desktop\DenizWorks\csharpbasicExamples\swap_values_of_two_variables\obj\Debug\net6.0\swap_values_of_two_variables.genruntimeconfig.cache
